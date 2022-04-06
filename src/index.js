@@ -1,6 +1,6 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 import ReactDOM from "react-dom";
-import "/assets/style.css";
+import "./assets/style.css"
 
 class EasyQuizy extends Component {
     render() {
@@ -11,3 +11,7 @@ class EasyQuizy extends Component {
         );
     }
 }
+
+ReactDOM.render(<EasyQuizy />, document.getElementById("root"));
+
+// https://opentdb.com/api.php?amount=100

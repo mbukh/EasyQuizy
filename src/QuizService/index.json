@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What name did &quot;Mario&quot;, from &quot;Super Mario Brothers&quot;, originally have?",
+            "correct_answer": "Ossan",
+            "incorrect_answers": [
+                "Jumpman",
+                "Mr. Video",
+                "Mario"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+            "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+            "incorrect_answers": [
+                "Tied to a boulder for eternity, being pecked by birds.",
+                "Standing in a lake filled with water he could not drink.",
+                "To fell a tree that regenerated after every axe swing."
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Norse mythology, Thor once dressed as a woman.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?",
+            "correct_answer": "Prince",
+            "incorrect_answers": [
+                "Michael Jackson",
+                "Cameo",
+                "Rick James"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?",
+            "correct_answer": "Ira Levin",
+            "incorrect_answers": [
+                "Stephen King",
+                "Robert Bloch",
+                "Mary Shelley"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which European city has the highest mileage of canals in the world?",
+            "correct_answer": "Birmingham",
+            "incorrect_answers": [
+                "Venice",
+                "Amsterdam",
+                "Berlin"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "With which doubles partner did John McEnroe have most success?",
+            "correct_answer": "Peter Fleming",
+            "incorrect_answers": [
+                "Mark Woodforde",
+                "Michael Stich",
+                "Mary Carillo"
+            ]
+        },
+        {
+            "category": "Celebrities",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Donald J. Trump&#039;s Middle Name is...",
+            "correct_answer": "John",
+            "incorrect_answers": [
+                "Jeff",
+                "Jerald",
+                "Jason"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the anime Initial D, how does Takumi Fujiwara describe a drift?",
+            "correct_answer": "&#039;. . . the front tires slide so the car won&#039;t face the inside&#039;",
+            "incorrect_answers": [
+                "&#039;. . . the wheels lose traction, making the car slide sideways&#039;",
+                "&#039;. . . the car oversteers through a curve, causing it to turn faster&#039;",
+                "&#039;. . . you turn a lot&#039;"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the setting of the show &quot;Parks and Recreation&quot;?",
+            "correct_answer": "Pawnee, Indiana",
+            "incorrect_answers": [
+                "Eagleton, Indiana",
+                "Pasadena, California",
+                "London, England"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In 2015, David Hasselhof released a single called...",
+            "correct_answer": "True Survivor",
+            "incorrect_answers": [
+                "True Fighter",
+                "Real Kung-Fury",
+                "Real Warrior"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Madonna&#039;s song &quot;Hung Up&quot; includes a piece from which popular 70s song?",
+            "correct_answer": "Gimmie! Gimmie! Gimme! (A Man After Midnight)",
+            "incorrect_answers": [
+                "Staying Alive",
+                "Night Fever",
+                "The Chain"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+            "correct_answer": "Sputnik 1",
+            "incorrect_answers": [
+                "Soyuz 7K-OK",
+                "Zenit-2",
+                "Voskhod 3KV"
+            ]
+        },
+        {
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year was the Disney film &quot;A Goofy Movie&quot; released?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1999",
+                "2001",
+                "1997"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many times was Albert Einstein married in his lifetime?",
+            "correct_answer": "Twice",
+            "incorrect_answers": [
+                "Five",
+                "Thrice",
+                "Once"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What type of genre is the controversial 2015 game &quot;Hatred&quot;?",
+            "correct_answer": "Shoot &#039;Em Up",
+            "incorrect_answers": [
+                "Point &amp; Click",
+                "MMORPG",
+                "Simulation"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The name of Junko Enoshima&#039;s imposter at the beginning of Danganronpa: Trigger Happy Havoc is?",
+            "correct_answer": "Mukuro Ikusaba",
+            "incorrect_answers": [
+                "Ryota Mitarai",
+                "Ultimate Imposter",
+                "Komaru Naegi"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who invented the &quot;Flying Shuttle&quot; in 1738; one of the key developments in the industrialization of weaving?",
+            "correct_answer": "John Kay",
+            "incorrect_answers": [
+                "James Hargreaves",
+                "Richard Arkwright",
+                "John Deere"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which country does the YouTuber &quot;SinowBeats&quot; originate from?",
+            "correct_answer": "Scotland",
+            "incorrect_answers": [
+                "England",
+                "Sweden",
+                "Germany"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "&quot;Lift Your Spirit&quot; is an album by which artist?",
+            "correct_answer": "Aloe Blacc",
+            "incorrect_answers": [
+                "Lena Meyer-Landrut",
+                "Stevie Wonder",
+                "Taylor Swift"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is not a default game mode in Counter-Strike (2000)?",
+            "correct_answer": "Arms Race",
+            "incorrect_answers": [
+                "Hostage Rescue",
+                "Bomb Defusal",
+                "Assassination"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Overwatch, how old is Reinhardt Wilhelm?",
+            "correct_answer": "61",
+            "incorrect_answers": [
+                "59",
+                "65",
+                "62"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What element does the Zinogre use in Monster Hunter?",
+            "correct_answer": "Thunder",
+            "incorrect_answers": [
+                "Ice",
+                "Fire",
+                "Water"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+            "correct_answer": "Momoko Koigakubo",
+            "incorrect_answers": [
+                "Hajime Aoyama",
+                "Satsuki Miyanoshita",
+                "Mio Itai"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Adolf Hitler was accepted into the Vienna Academy of Fine Arts.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Mythology",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Vehicles",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which car manufacturer created the &quot;Aventador&quot;?",
+            "correct_answer": "Lamborghini",
+            "incorrect_answers": [
+                "Ferrari",
+                "Pagani",
+                "Bugatti"
+            ]
+        },
+        {
+            "category": "Politics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was elected leader of the UK Labour Party in September 2015?",
+            "correct_answer": "Jeremy Corbyn",
+            "incorrect_answers": [
+                "Ed Miliband",
+                "David Cameron",
+                "Theresa May"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the name of Pink Floyd&#039;s first studio album?",
+            "correct_answer": "The Piper at the Gates of Dawn",
+            "incorrect_answers": [
+                "Ummagumma",
+                "More",
+                "Atom Heart Mother"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Pok&eacute;mon Chronicles, why was Misty afraid of Gyarados?",
+            "correct_answer": "She crawled into it&#039;s mouth as a baby.",
+            "incorrect_answers": [
+                "She found it scary.",
+                "She was badly injured from it.",
+                "It is part Bug."
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was the People&#039;s Republic of China founded?",
+            "correct_answer": "October 1, 1949",
+            "incorrect_answers": [
+                "April 3, 1947",
+                "May 7, 1945",
+                "December 6, 1950"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?",
+            "correct_answer": "Thinking Machines CM-5",
+            "incorrect_answers": [
+                "Cray X-MP",
+                "Cray XK7",
+                "IBM Blue Gene/Q"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+            "correct_answer": "Cat",
+            "incorrect_answers": [
+                "Dog",
+                "Bat",
+                "Butterfly"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where did the British Boy Band &quot;Bros&quot; come from?",
+            "correct_answer": "Camberley",
+            "incorrect_answers": [
+                "Guildford",
+                "Aldershot",
+                "Bagshot"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many stations does the Central Line have on the London Underground?",
+            "correct_answer": "49",
+            "incorrect_answers": [
+                "51",
+                "43",
+                "47"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?",
+            "correct_answer": "Seinfeld",
+            "incorrect_answers": [
+                "Frasier",
+                "Becker",
+                "Friends"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which former Star Trek actor directed Three Men and a Baby (1987)?",
+            "correct_answer": "Leonard Nimoy",
+            "incorrect_answers": [
+                "William Shatner",
+                "George Takei",
+                "James Doohan"
+            ]
+        },
+        {
+            "category": "Entertainment: Comics",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The main six year old protagonist in Calvin and Hobbes is named after what theologian?",
+            "correct_answer": "John Calvin",
+            "incorrect_answers": [
+                "Calvin Klein",
+                "Calvin Coolidge",
+                "Phillip Calvin McGraw"
+            ]
+        },
+        {
+            "category": "Art",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who painted The Starry Night?",
+            "correct_answer": "Vincent van Gogh",
+            "incorrect_answers": [
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Michelangelo"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+            "correct_answer": "March 25th",
+            "incorrect_answers": [
+                "June 1st",
+                "September 25th",
+                "December 1st"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these Disney classics was released in 1970?",
+            "correct_answer": "The Aristocats",
+            "incorrect_answers": [
+                "One Hundred and One Dalmatians",
+                "The Fox and the Hound",
+                "The Little Mermaid"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+            "correct_answer": "Horse",
+            "incorrect_answers": [
+                "Weave",
+                "Guitar",
+                "Boat"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which fictional English county was the setting for Thomas Hardy&#039;s novels?",
+            "correct_answer": "Wessex",
+            "incorrect_answers": [
+                "Barsetshire",
+                "Fulchester",
+                "Ambridge"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which country is the Taedong River in?",
+            "correct_answer": "North Korea",
+            "incorrect_answers": [
+                "South Korea",
+                "Japan",
+                "China"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many provinces are in the Netherlands?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "14",
+                "10",
+                "13"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the 2011 Stanley Cup?",
+            "correct_answer": "Boston Bruins",
+            "incorrect_answers": [
+                "Montreal Canadiens",
+                "New York Rangers",
+                "Toronto Maple Leafs"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "Vietnam War",
+                "American Civil War",
+                "American Revolutionary War"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What war is Call Of Duty: Black Ops based on?",
+            "correct_answer": "Cold War",
+            "incorrect_answers": [
+                "WW3",
+                "Vietnam",
+                "WW1"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year was the game Team Fortress 2 released?",
+            "correct_answer": "2007",
+            "incorrect_answers": [
+                "2009",
+                "2005",
+                "2010"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+            "correct_answer": "Acetone",
+            "incorrect_answers": [
+                "Water",
+                "Mercury",
+                "Benzene"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Some people call me the space cowboy&quot; is the first line from what song?",
+            "correct_answer": "The Joker",
+            "incorrect_answers": [
+                "Fandango",
+                "Take The Money and Run",
+                "Fly Like an Eagle"
+            ]
+        },
+        {
+            "category": "Science: Mathematics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?",
+            "correct_answer": "314.15 Inches",
+            "incorrect_answers": [
+                "380.1215 Inches",
+                "3141.5 Inches",
+                "1256.6 Inches"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "America&#039;s Strategic Defense System during the Cold War was nicknamed after this famous movie.",
+            "correct_answer": "Star Wars",
+            "incorrect_answers": [
+                "Jaws",
+                "Blade Runner",
+                "Alien"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Ringo Starr of The Beatles mainly played what instrument?",
+            "correct_answer": "Drums",
+            "incorrect_answers": [
+                "Bass",
+                "Guitar",
+                "Piano"
+            ]
+        },
+        {
+            "category": "Entertainment: Television",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the star of the AMC series Breaking Bad?",
+            "correct_answer": "Walter White",
+            "incorrect_answers": [
+                "Saul Goodman",
+                "Jesse Pinkman",
+                "Skyler White"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of Chile?",
+            "correct_answer": "Santiago",
+            "incorrect_answers": [
+                "Valpara&iacute;so",
+                "Copiap&oacute;",
+                "Antofagasta"
+            ]
+        },
+        {
+            "category": "Politics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the 40th President of the USA?",
+            "correct_answer": "Ronald Reagan",
+            "incorrect_answers": [
+                "Jimmy Carter",
+                "Bill Clinton",
+                "Richard Nixon"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the fourth book of the Old Testament?",
+            "correct_answer": "Numbers",
+            "incorrect_answers": [
+                "Genesis",
+                "Exodus",
+                "Leviticus"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which language is NOT Indo-European?",
+            "correct_answer": "Hungarian",
+            "incorrect_answers": [
+                "Russian",
+                "Greek",
+                "Latvian"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which country is completely landlocked by South Africa?",
+            "correct_answer": "Lesotho",
+            "incorrect_answers": [
+                "Swaziland",
+                "Botswana",
+                "Zimbabwe"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Why was the character Trevor Philips discharged from the Air Force?",
+            "correct_answer": "Mental Health Issues",
+            "incorrect_answers": [
+                "Injuries",
+                "Disease",
+                "Danger to Others"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the highest belt you can get in Taekwondo?",
+            "correct_answer": "Black",
+            "incorrect_answers": [
+                "White",
+                "Red",
+                "Green"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who developed the first successful polio vaccine in the 1950s?",
+            "correct_answer": "Jonas Salk",
+            "incorrect_answers": [
+                "John F. Enders",
+                "Thomas Weller",
+                "Frederick Robbins"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?",
+            "correct_answer": "Kyoko Tokiwa",
+            "incorrect_answers": [
+                "Melissa Mao",
+                "Ren Mikihara",
+                "Teletha &quot;Tessa&quot; Testarossa"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the romanized Russian word for &quot;winter&quot;?",
+            "correct_answer": "Zima",
+            "incorrect_answers": [
+                "Leto",
+                "Vesna",
+                "Osen&#039;"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following characters were considered for inclusion in Super Smash Bros. Melee?",
+            "correct_answer": "Lucas",
+            "incorrect_answers": [
+                "Mega Man",
+                "Meta Knight",
+                "Diddy Kong"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+            "correct_answer": "John Blunt",
+            "incorrect_answers": [
+                "Daniel Defoe",
+                "Robert Harley",
+                "John Churchill"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many sonatas did Ludwig van Beethoven write?",
+            "correct_answer": "32",
+            "incorrect_answers": [
+                "50",
+                "31",
+                "21"
+            ]
+        },
+        {
+            "category": "Entertainment: Musicals & Theatres",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Les Mis&eacute;rables, who is Prison Code 24601?",
+            "correct_answer": "Jean Valjean",
+            "incorrect_answers": [
+                "Marius Pontmercy",
+                "Javert",
+                "Jean Claude Van Damme"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "World War I",
+                "Vietnam War",
+                "Iraq War"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is NOT a playable character race in the video game &quot;Starbound&quot;?",
+            "correct_answer": "Fenerox",
+            "incorrect_answers": [
+                "Floran",
+                "Novakid",
+                "Hylotl"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
+            "correct_answer": "Sour Appletini",
+            "incorrect_answers": [
+                "Fringe Weaver",
+                "Piano Man",
+                "Bad Touch"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;The Melancholy of Haruhi Suzumiya&quot; series, the SOS Brigade club leader is unknowingly treated as a(n) __ by her peers.",
+            "correct_answer": "God",
+            "incorrect_answers": [
+                "Alien",
+                "Time Traveler",
+                "Esper"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?",
+            "correct_answer": "McCree",
+            "incorrect_answers": [
+                "Hanzo",
+                "Pharah",
+                "Soldier: 76"
+            ]
+        },
+        {
+            "category": "Entertainment: Comics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ",
+            "correct_answer": "Professor Charles the Hedgehog",
+            "incorrect_answers": [
+                "Julian Robotnik",
+                "Ivo Robotnik",
+                "Snively Robotnik"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?",
+            "correct_answer": "Holden Caulfield",
+            "incorrect_answers": [
+                "Fletcher Christian",
+                "Jay Gatsby",
+                "Randall Flagg"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following characters is NOT a female marriage candidate in the game Stardew Valley?",
+            "correct_answer": "Caroline",
+            "incorrect_answers": [
+                "Abigail",
+                "Haley",
+                "Leah"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1997",
+                "2000",
+                "1992"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Harvard University is located in which city?",
+            "correct_answer": "Cambridge",
+            "incorrect_answers": [
+                "Providence",
+                "New York",
+                "Washington D.C."
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What nucleotide pairs with guanine?",
+            "correct_answer": "Cytosine",
+            "incorrect_answers": [
+                "Thymine",
+                "Adenine",
+                "Uracil"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
+            "correct_answer": "Aloysius O&#039;Hare",
+            "incorrect_answers": [
+                "Ted Wiggins",
+                "The Once-Ler",
+                "Grammy Norma"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Botanically speaking, which of these fruits is NOT a berry?",
+            "correct_answer": "Strawberry",
+            "incorrect_answers": [
+                "Blueberry",
+                "Banana",
+                "Concord Grape"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was studio Trigger&#039;s first original long-form animated series for television?",
+            "correct_answer": "Kill la Kill",
+            "incorrect_answers": [
+                "Kiznaiver",
+                "Inferno Cop",
+                "Gurren Lagann"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these games was NOT developed by Markus Persson?",
+            "correct_answer": "Dwarf Fortress",
+            "incorrect_answers": [
+                "Minecraft",
+                "Wurm Online",
+                "0x10c"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?",
+            "correct_answer": "Unggoy",
+            "incorrect_answers": [
+                "Huragok",
+                "Sangheili",
+                "Yanme&#039;e"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these songs is not on the &quot;untitled&quot; album by Led Zeppelin?",
+            "correct_answer": "Celebration Day",
+            "incorrect_answers": [
+                "Stairway to Heaven",
+                "Black Dog",
+                "Rock and Roll"
+            ]
+        },
+        {
+            "category": "Politics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "0"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+            "correct_answer": "&quot;A rainy Lithuanian / Is dancing as an Indian&quot;",
+            "incorrect_answers": [
+                "&quot;Fly away on, my zephyr / I feel it more than ever&quot;",
+                "&quot;And I liked the dimple in your chin / Your pale blue eyes&quot;",
+                "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many &quot;JoJos&quot; that are protagonists are there in the series &quot;Jojo&#039;s Bizarre Adventure&quot;?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "6",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which game did the Konami Code make its first appearance?",
+            "correct_answer": "Gradius",
+            "incorrect_answers": [
+                "Contra",
+                "Castlevania",
+                "Dance Dance Revolution"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What do you study if you are studying entomology?",
+            "correct_answer": "Insects",
+            "incorrect_answers": [
+                "Humans",
+                "the Brain",
+                "Fish"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the last colony the UK ceded marking the end of the British Empire?",
+            "correct_answer": "Hong Kong",
+            "incorrect_answers": [
+                "India",
+                "Australia",
+                "Ireland"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "&quot;Sonic the Hedgehog 2&quot; originally was going to have a time travel system.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Dave Grohl recorded the Foo Fighters&#039; debut, &quot;Foo Fighters,&quot; by himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these choices is not one of the phases of mitosis?",
+            "correct_answer": "Diplophase",
+            "incorrect_answers": [
+                "Metaphase",
+                "Anaphase",
+                "Telophase"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which one of these people has been in the band &#039;&#039;Metallica&#039;&#039; in the past?",
+            "correct_answer": "Dave Mustaine",
+            "incorrect_answers": [
+                "Kurt Cobain",
+                "Joey Belladonna",
+                "Dave Lombardo"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The shotgun appears in every numbered Resident Evil game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In &quot;Space Station 13&quot;,  the station has a clown aboard it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}
